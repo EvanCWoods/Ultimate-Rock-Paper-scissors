@@ -1,0 +1,11 @@
+#canvas {
+    width: 700px;
+    height: 700px;
+    background: rgb(179, 179, 179);
+}
+
+.player {
+    width: fit-content;
+    block-size: fit-content;
+    aspect-ratio: 1/1;
+}
